@@ -1,0 +1,7 @@
+./bin
+./.vscode
+./obj
+./WinformDemo.sln
+./WinformDemo.csproj.user
+./DataTransfer.cs
+./DataTransfer.Designer.cs

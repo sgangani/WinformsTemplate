@@ -1,0 +1,9 @@
+<NewDataSet>
+    <t_book>
+        <c_bookid></c_bookid>
+        <c_bookname>One Piece</c_bookname>
+        <c_author>GolDRoger</c_author>
+        <c_price>5000</c_price>
+        <c_pages>1450</c_pages>
+        </t_book>
+</NewDataSet>
